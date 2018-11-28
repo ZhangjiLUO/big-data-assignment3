@@ -1,0 +1,47 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\assignment-3_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetProcess$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TweetProcess$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetProcess.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TweetProcess.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetProcess$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TweetProcess$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItem$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\FrequentItem$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItem$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\FrequentItem$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItem$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\FrequentItem$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\FrequentItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\FrequentItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$2$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\xiang\Documents\UTD\Fall 2018\CS6350.002 Big Data\assignments\assignment 3\Assignment 3\target\scala-2.11\classes\TopicModeling$$anonfun$2$$anonfun$apply$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
